@@ -1,5 +1,6 @@
 # HR-Analytics-Dashboard
  Laid my hands on an another interactive project "HR Analytics Dashboard" of a fictional company. The scope of the project was to drive insights regarding the attrition of employees based on various performance indicators and help the HR dept. to make data driven decisions based on real -time insights.
+ 
  #Insights:-
  1. By conducting analysis on employee feedback on job satisfaction and attrition by job field , it is revealed that highest overall rating 3 is provided by the job role of lab technician,followed by research scientist and sales executive ,further revealed that majority of employees are from life sciences field followed by medical and marketing. Therefore the highest attrition is among these fields and Job role only.
     
