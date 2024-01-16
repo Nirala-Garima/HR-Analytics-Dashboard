@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# HR-Analytics-Dashboard using Power-Bi
  Laid my hands on an another interactive project "HR Analytics Dashboard" of a fictional company. The scope of the project was to drive insights regarding the attrition of employees based on various performance indicators and help the HR dept. to make data driven decisions based on real -time insights.
  
  #Insights:-
